@@ -10,12 +10,12 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Zunaid-jony)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zunaid-jony)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Zunaid-jony)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaid-jony)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Zunaid-jony&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zunaid-jony&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Zunaid-jony)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zunaid-jony)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Zunaid-jony)  
+![Profile views](https://gpvc.arturio.dev/Zunaid-jony)  
