@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jony</h1>
-- 🔭 I’m currently working on **AKKSYSTEM**
+- 🔭 I’m currently working on **AKK SYSTEMS**
 
 <h3 align="left">Connect with me: https://www.facebook.com/ </h3>
 <p align="left">
